@@ -79,3 +79,38 @@ There are two lines of output. Your answers must be rounded to a scale of 3 deci
     <li>On the first line, print the answer to question 1 (i.e., the probability that a car can be assembled in less than 19.5 hours).</li>
     <li>On the second line, print the answer to question 2 (i.e., the probability that a car can be assembled in between 20 to 22 hours).</li>
 </ol>
+
+# 4.Normal Distribution II
+
+<h2>Objective</h2>
+In this challenge, we go further with normal distributions.
+
+<h2>Task</h2>
+The final grades for a Physics exam taken by a large group of students have a mean of mue=70 and a standard deviation of sigma=10. If we can approximate the distribution of these grades by a normal distribution, what percentage of the students:
+<ol>
+    <li>Scored higher than 80 (i.e., have a grade>80)?</li>
+    <li>Passed the test (i.e., have a grade>=60 )?</li>
+    <li>Failed the test (i.e., have a grade<60 )?</li>
+</ol>
+Find and print the answer to each question on a new line, rounded to a scale of 2  decimal places.
+
+<h2>Input Format</h2>
+
+There are 3 lines of input (shown below):
+
+70 10<br>
+80<br>
+60
+
+The first line contains 2 space-separated values denoting the respective mean and standard deviation for the exam. The second line contains the number associated with question 1. The third line contains the pass/fail threshold number associated with questions 2 and 3.
+
+If you do not wish to read this information from stdin, you can hard-code it into your program.
+
+<h2>Output Format</h2>
+
+There are three lines of output. Your answers must be rounded to a scale of 2 decimal places (i.e.,1.23 format):
+<ol>
+    <li<On the first line, print the answer to question 1 (i.e., the percentage of students having grade>80).</li>
+    <li<On the second line, print the answer to question 2 (i.e., the percentage of students having grade>=60).</li>
+    <li<On the third line, print the answer to question 3 (i.e., the percentage of students having grade<60).</li>
+</ol>
