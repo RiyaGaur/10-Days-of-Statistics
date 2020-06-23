@@ -34,10 +34,10 @@ You have 2 attempts left.
 
 # 3.Compound Event Probability
 
-Objective
+<h2>Objective</h2>
 In this challenge, we practice calculating the probability of a compound event. 
 
-Task
+<h2>Task</h2>
 There are 3 urns labeled X, Y, and Z.
 
 
