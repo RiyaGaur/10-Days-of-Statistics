@@ -54,3 +54,25 @@ The third line contains n space-separated integers describing the respective ele
 <h2>Output Format</h2>
 
 Print the interquartile range for the expanded data set on a new line. Round your answer to a scale of 1 decimal place (i.e., 12.3 format).
+
+# 3.Standard Deviation
+
+<h2>Objective</h2>
+In this challenge, we practice calculating standard deviation.
+
+<h2>Task</h2>
+Given an array, X , of N integers, calculate and print the standard deviation. Your answer should be in decimal form, rounded to a scale of 1 decimal place (i.e.,12.3  format). An error margin of +-0.1 will be tolerated for the standard deviation.
+
+<h2>Input Format</h2>
+
+The first line contains an integer,N , denoting the number of elements in the array.
+The second line contains N space-separated integers describing the respective elements of the array.
+
+<h2>Constraints</h2>
+<ul>
+	<li> 5<=N<=100</li>
+	<li> -1<=xi<=10^5, where xi is the ith element of array X.
+
+<h2>Output Format</h2>
+
+Print the standard deviation on a new line, rounded to a scale of 1 decimal place (i.e.,12.3 format).
