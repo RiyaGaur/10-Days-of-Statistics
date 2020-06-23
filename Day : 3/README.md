@@ -19,8 +19,7 @@ You have 1 attempts left.
 # 2.Cards of the Same Suit
 
 <h2>Objective</h2>
-In this challenge, we're getting started with combinations and permutations. Check out the Tutorial tab for learning materials!
-
+In this challenge, we're getting started with combinations and permutations.
 
 <h2>Task</h2>
 You draw 2 cards from a standard 52-card deck without replacing them. What is the probability that both cards are of the same suit?
@@ -33,3 +32,21 @@ You draw 2 cards from a standard 52-card deck without replacing them. What is th
 You have 0 attempts left.
 
 <h3>Answer is 12 / 51</h3>
+
+# 3.Drawing Marbles
+
+<h2>Objective</h2>
+In this challenge, we're reinforcing what we've learned today. In case you've missed them, today's tutorials are on Conditional Probability and Combinations and Permutations.
+
+
+<h2>Task</h2>
+A bag contains 3 red marbles and 4 blue marbles. Then, 2 marbles are drawn from the bag, at random, without replacement. If the first marble drawn is red, what is the probability that the second marble is blue?
+<ul>
+	<li>1 / 12</li>
+	<li>7 / 12</li>
+	<li>1 / 6</li>
+	<li>2 / 3</li>
+</ul>
+You have 2 attempts left.
+
+<h3>Answer is 2 / 3</h3>
