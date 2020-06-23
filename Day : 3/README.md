@@ -18,11 +18,11 @@ You have 1 attempts left.
 
 # 2.Cards of the Same Suit
 
-Objective
+<h2>Objective</h2>
 In this challenge, we're getting started with combinations and permutations. Check out the Tutorial tab for learning materials!
 
 
-Task
+<h2>Task</h2>
 You draw 2 cards from a standard 52-card deck without replacing them. What is the probability that both cards are of the same suit?
 <ul>
 	<li>1 / 156</li>
