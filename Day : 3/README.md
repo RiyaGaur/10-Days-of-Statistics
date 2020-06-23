@@ -1,10 +1,10 @@
 # 1.Conditional Probability
 
-<li>Objective</li>
+<h2>Objective</h2>
 In this challenge, we get started with conditional probability.
 
 
-<li>Task</li>
+<h2>Task</h2>
 Suppose a family has 2 children, one of which is a boy. What is the probability that both children are boys?
 <ul>
 			<li>1 / 3</li>
