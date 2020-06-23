@@ -19,7 +19,7 @@ If you do not wish to read this information from stdin, you can hard-code it int
 <h2>Output Format</h2>
 
 Print a single line denoting the answer, rounded to a scale of 3 decimal places (i.e.,1.234 format).
-<hr>
+
 # 2.Binomial Distribution II
 
 <h2>Objective</h2>
@@ -47,3 +47,24 @@ Print the answer to each question on its own line:
     <li>The second line should contain the probability that a batch of 10 pistons will contain at least 2 rejects.</li>
 </ol>
 Round both of your answers to a scale of 3 decimal places (i.e.,1.234 format).
+
+# 3.Geometric Distribution I
+
+<h2>Objective</h2>
+In this challenge, we learn about geometric distributions.
+
+<h2>Task</h2>
+The probability that a machine produces a defective product is 1 / 3. What is the probability that the 1st defect is found during the 5th inspection?
+
+<h2>Input Format</h2>
+
+The first line contains the respective space-separated numerator and denominator for the probability of a defect, and the second line contains the inspection we want the probability of being the first defect for:
+
+1 3
+5
+
+If you do not wish to read this information from stdin, you can hard-code it into your program.
+
+<h2>Output Format</h2>
+
+Print a single line denoting the answer, rounded to a scale of 3 decimal places (i.e.,1.234 format).
