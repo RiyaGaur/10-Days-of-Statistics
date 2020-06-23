@@ -85,6 +85,7 @@ The first line contains the respective space-separated numerator and denominator
 
 1 3<br>
 5
+
 If you do not wish to read this information from stdin, you can hard-code it into your program.
 
 <h2>Output Format</h2>
