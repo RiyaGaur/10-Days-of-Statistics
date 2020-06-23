@@ -36,7 +36,7 @@ You have 0 attempts left.
 # 3.Drawing Marbles
 
 <h2>Objective</h2>
-In this challenge, we're reinforcing what we've learned today. In case you've missed them, today's tutorials are on Conditional Probability and Combinations and Permutations.
+In this challenge, we're reinforcing what we've learned today.
 
 
 <h2>Task</h2>
