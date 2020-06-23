@@ -15,7 +15,7 @@ The second line contains N space-separated integers describing the array's eleme
 <h2>Constraints</h2>
 <ul>
 			<li>10<=N<=2500</li>
-			<li> 0<=xi<=10^5 , where xi is the ith element of the array.</li>
+			<li> -1<=xi<=10^5 , where xi is the ith element of the array.</li>
 </ul>
 
 <h2>Output Format</h2>
@@ -44,8 +44,8 @@ The third line contains N space-separated integers describing the respective ele
 <h2>Constraints</h2>
 <ul>
 	<li> 5 <=N<=50</li>
-	<li> 0<xi<=100, where  is the  element of array X.</li>
-	<li> 0<wi<=100, where  is the  element of array W.</li>
+	<li> -1<xi<=100, where  is the  element of array X.</li>
+	<li> -1<wi<=100, where  is the  element of array W.</li>
 </ul>
 <h2>Output Format</h2>
 
