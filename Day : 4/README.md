@@ -19,3 +19,31 @@ If you do not wish to read this information from stdin, you can hard-code it int
 <h2>Output Format</h2>
 
 Print a single line denoting the answer, rounded to a scale of 3 decimal places (i.e.,1.234 format).
+
+# 2.Binomial Distribution II
+
+<h2>Objective</h2>
+In this challenge, we go further with binomial distributions.
+
+<h2>Task</h2>
+A manufacturer of metal pistons finds that, on average,12% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 10 pistons will contain:
+<ol>
+  <li>No more than 2 rejects?</li>
+  <li>At least 2 rejects?</li>
+</ol>
+<h2>Input Format</h2>
+
+A single line containing the following values (denoting the respective percentage of defective pistons and the size of the current batch of pistons):
+
+12 10
+
+If you do not wish to read this information from stdin, you can hard-code it into your program.
+
+<h2>Output Format</h2>
+
+Print the answer to each question on its own line:
+<ol>
+    <li>The first line should contain the probability that a batch of 10 pistons will contain no more than 2 rejects.</li>
+    <li>The second line should contain the probability that a batch of 10 pistons will contain at least 2 rejects.</li>
+</ol>
+Round both of your answers to a scale of 3 decimal places (i.e.,1.234 format).
