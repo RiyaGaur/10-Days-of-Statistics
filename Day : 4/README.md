@@ -19,7 +19,7 @@ If you do not wish to read this information from stdin, you can hard-code it int
 <h2>Output Format</h2>
 
 Print a single line denoting the answer, rounded to a scale of 3 decimal places (i.e.,1.234 format).
-
+<hr>
 # 2.Binomial Distribution II
 
 <h2>Objective</h2>
