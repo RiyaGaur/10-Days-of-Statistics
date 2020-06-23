@@ -35,7 +35,7 @@ The interquartile range of an array is the difference between its first (Q1) and
 
 Given an array, X , of n integers and an array, F , representing the respective frequencies of X's elements, construct a data set, S , where each xi occurs at frequency fi. Then calculate and print S's interquartile range, rounded to a scale of 1 decimal place (i.e.,12.3 format).
 
-<h3>Tip</h3>: Be careful to not use integer division when averaging the middle two elements for a data set with an even number of elements, and be sure to not include the median in your upper and lower data sets.
+<strong>Tip</strong>: Be careful to not use integer division when averaging the middle two elements for a data set with an even number of elements, and be sure to not include the median in your upper and lower data sets.
 
 <h2>Input Format</h2>
 
@@ -49,7 +49,7 @@ The third line contains n space-separated integers describing the respective ele
 	<li> -1<=xi<=100, where  is the  element of array .</li>
 	<li> -1<=summation of fi from i=0 to n-1 <=10^3, where fi is the ith element of array F.</li>
 	<li>The number of elements in D is equal to summation F .</li>
-/ul>
+</ul>
 
 <h2>Output Format</h2>
 
