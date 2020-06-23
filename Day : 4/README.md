@@ -60,9 +60,31 @@ The probability that a machine produces a defective product is 1 / 3. What is th
 
 The first line contains the respective space-separated numerator and denominator for the probability of a defect, and the second line contains the inspection we want the probability of being the first defect for:
 
-1 3
+1 3<br>
 5
 
+If you do not wish to read this information from stdin, you can hard-code it into your program.
+
+<h2>Output Format</h2>
+
+Print a single line denoting the answer, rounded to a scale of 3 decimal places (i.e.,1.234 format).
+
+
+# 4.Geometric Distribution II
+
+
+<h2>Objective</h2>
+In this challenge, we go further with geometric distributions. We recommend reviewing the Geometric Distribution tutorial before attempting this challenge.
+
+<h2>Task</h2>
+The probability that a machine produces a defective product is 1 / 3. What is the probability that the 1st defect is found during the first 5 inspections?
+
+<h2>Input Format</h2>
+
+The first line contains the respective space-separated numerator and denominator for the probability of a defect, and the second line contains the inspection we want the probability of the first defect being discovered by:
+
+1 3<br>
+5
 If you do not wish to read this information from stdin, you can hard-code it into your program.
 
 <h2>Output Format</h2>
