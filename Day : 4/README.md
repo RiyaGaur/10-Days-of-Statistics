@@ -74,7 +74,7 @@ Print a single line denoting the answer, rounded to a scale of 3 decimal places 
 
 
 <h2>Objective</h2>
-In this challenge, we go further with geometric distributions. We recommend reviewing the Geometric Distribution tutorial before attempting this challenge.
+In this challenge, we go further with geometric distributions.
 
 <h2>Task</h2>
 The probability that a machine produces a defective product is 1 / 3. What is the probability that the 1st defect is found during the first 5 inspections?
