@@ -50,3 +50,33 @@ If you do not wish to read this information from stdin, you can hard-code it int
 <h2>Output Format</h2>
 
 Print the probability that 100 students can successfully purchase the remaining 250 tickets, rounded to a scale of 4 decimal places (i.e.,1.2345 format).
+
+# 3.The Central Limit Theorem III
+
+<h2>Objective</h2>
+In this challenge, we practice solving problems based on the Central Limit Theorem.
+
+<h2>Task</h2>
+You have a sample of 100 values from a population with mean meu=500 and with standard deviation sigma=80. Compute the interval that covers the middle 95% of the distribution of the sample mean; in other words, compute A and B such that P(A<x<B)=0.95. Use the value of z=1.96. Note that z is the z-score.
+
+<h2>Input Format</h2>
+
+There are five lines of input (shown below):
+
+100<br>
+500<br>
+80<br>
+.95<br>
+1.96
+
+The first line contains the sample size. The second and third lines contain the respective mean (meu) and standard deviation (sigma). The fourth line contains the distribution percentage we want to cover (as a decimal), and the fifth line contains the value of z.
+
+If you do not wish to read this information from stdin, you can hard-code it into your program.
+
+<h2>Output Format</h2>
+
+Print the following two lines of output, rounded to a scale of 2 decimal places (i.e.,1.23 format):
+<ol>
+  <li>On the first line, print the value of A.</li>
+  <li>On the second line, print the value of B.</li>
+</ol>
