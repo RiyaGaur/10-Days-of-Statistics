@@ -57,7 +57,7 @@ Print the probability that 100 students can successfully purchase the remaining 
 In this challenge, we practice solving problems based on the Central Limit Theorem.
 
 <h2>Task</h2>
-You have a sample of 100 values from a population with mean meu=500 and with standard deviation sigma=80. Compute the interval that covers the middle 95% of the distribution of the sample mean; in other words, compute A and B such that P(A<x<B)=0.95. Use the value of z=1.96. Note that z is the z-score.
+You have a sample of 100 values from a population with mean meu=500 and with standard deviation sigma=80. Compute the interval that covers the middle 95% of the distribution of the sample mean; in other words, compute A and B such that P( A < x < B)=0.95. Use the value of z=1.96. Note that z is the z-score.
 
 <h2>Input Format</h2>
 
