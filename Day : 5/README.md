@@ -110,7 +110,7 @@ If you do not wish to read this information from stdin, you can hard-code it int
 
 There are three lines of output. Your answers must be rounded to a scale of 2 decimal places (i.e.,1.23 format):
 <ol>
-    <li<On the first line, print the answer to question 1 (i.e., the percentage of students having grade>80).</li>
-    <li<On the second line, print the answer to question 2 (i.e., the percentage of students having grade>=60).</li>
-    <li<On the third line, print the answer to question 3 (i.e., the percentage of students having grade<60).</li>
+    <li>On the first line, print the answer to question 1 (i.e., the percentage of students having grade>80).</li>
+    <li>On the second line, print the answer to question 2 (i.e., the percentage of students having grade>=60).</li>
+    <li>On the third line, print the answer to question 3 (i.e., the percentage of students having grade<60).</li>
 </ol>
