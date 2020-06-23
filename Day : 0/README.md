@@ -1,3 +1,4 @@
+# Mean, Median, and Mode
 <h2>Objective</h2>
 In this challenge, we practice calculating the mean, median, and mode. 
 
