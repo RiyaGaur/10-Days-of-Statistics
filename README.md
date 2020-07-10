@@ -36,7 +36,7 @@
 <h5> Day 6 : </h5>
 1.The Central Limit Theorem I
 2.The Central Limit Theorem II
-3.
+3.The Central Limit Theorem III
 
 <h5> Day 7 : </h5>
 <h5> Day 8 : </h5>
