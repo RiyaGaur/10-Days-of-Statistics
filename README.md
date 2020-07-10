@@ -40,7 +40,7 @@
 
 <h5> Day 7 : </h5>
 1.Pearson Correlation Coefficient I
-2.
+2.Spearman's Rank Correlation Coefficient
 
 <h5> Day 8 : </h5>
 1.
