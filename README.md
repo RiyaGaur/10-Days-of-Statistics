@@ -8,8 +8,8 @@
 
 <h5> Day 1 : </h5>
 1.Quartiles
-2.
-3.
+2.Interquartile Range
+3.Standard Deviation
 
 <h5> Day 2 : </h5>
 <h5> Day 3 : </h5>
