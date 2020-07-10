@@ -24,7 +24,7 @@
 <h5> Day 4 : </h5>
 1.Binomial Distribution I
 2.Binomial Distribution II
-3.
+3.Geometric Distribution I
 4.
 
 <h5> Day 5 : </h5>
