@@ -12,6 +12,10 @@
 3.Standard Deviation
 
 <h5> Day 2 : </h5>
+1.
+2.
+3.
+
 <h5> Day 3 : </h5>
 <h5> Day 4 : </h5>
 <h5> Day 5 : </h5>
