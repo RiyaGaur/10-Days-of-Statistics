@@ -31,7 +31,7 @@
 1.Poisson Distribution I
 2.Poisson Distribution II
 3.Normal Distribution I
-4.
+4.Normal Distribution II
 
 <h5> Day 6 : </h5>
 <h5> Day 7 : </h5>
