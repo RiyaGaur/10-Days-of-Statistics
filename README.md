@@ -28,7 +28,7 @@
 4.Geometric Distribution II
 
 <h5> Day 5 : </h5>
-1.
+1.Poisson Distribution I
 2.
 3.
 4.
