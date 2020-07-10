@@ -34,6 +34,10 @@
 4.Normal Distribution II
 
 <h5> Day 6 : </h5>
+1.The Central Limit Theorem I
+2.
+3.
+
 <h5> Day 7 : </h5>
 <h5> Day 8 : </h5>
 <h5> Day 9 : </h5>
