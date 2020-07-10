@@ -39,7 +39,7 @@
 3.The Central Limit Theorem III
 
 <h5> Day 7 : </h5>
-1.
+1.Pearson Correlation Coefficient I
 2.
 
 <h5> Day 8 : </h5>
