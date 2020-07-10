@@ -22,7 +22,7 @@
 3.Drawing Marbles
 
 <h5> Day 4 : </h5>
-1.
+1.Binomial Distribution I
 2.
 3.
 4.
