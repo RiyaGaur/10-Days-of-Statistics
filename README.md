@@ -12,7 +12,7 @@
 3.Standard Deviation
 
 <h5> Day 2 : </h5>
-1.
+1.Basic Probability
 2.
 3.
 
