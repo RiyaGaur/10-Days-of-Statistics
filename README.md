@@ -28,6 +28,10 @@
 4.Geometric Distribution II
 
 <h5> Day 5 : </h5>
+1.
+2.
+3.
+4.
 
 <h5> Day 6 : </h5>
 <h5> Day 7 : </h5>
