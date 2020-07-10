@@ -14,7 +14,7 @@
 <h5> Day 2 : </h5>
 1.Basic Probability
 2.More Dice
-3.
+3.Compound Event Probability
 
 <h5> Day 3 : </h5>
 <h5> Day 4 : </h5>
