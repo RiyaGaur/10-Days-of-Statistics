@@ -17,6 +17,10 @@
 3.Compound Event Probability
 
 <h5> Day 3 : </h5>
+1.Conditional Probability
+2.
+3.
+
 <h5> Day 4 : </h5>
 <h5> Day 5 : </h5>
 <h5> Day 6 : </h5>
