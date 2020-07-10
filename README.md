@@ -25,7 +25,7 @@
 1.Binomial Distribution I
 2.Binomial Distribution II
 3.Geometric Distribution I
-4.
+4.Geometric Distribution II
 
 <h5> Day 5 : </h5>
 <h5> Day 6 : </h5>
