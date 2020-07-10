@@ -29,7 +29,7 @@
 
 <h5> Day 5 : </h5>
 1.Poisson Distribution I
-2.
+2.Poisson Distribution II
 3.
 4.
 
