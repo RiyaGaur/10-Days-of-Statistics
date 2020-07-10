@@ -18,7 +18,7 @@
 
 <h5> Day 3 : </h5>
 1.Conditional Probability
-2.
+2.Cards of the Same Suit
 3.
 
 <h5> Day 4 : </h5>
