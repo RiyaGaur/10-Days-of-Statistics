@@ -44,6 +44,6 @@
 
 <h5> Day 8 : </h5>
 1.
-2.
+2.Pearson Correlation Coefficient II
 
 <h5> Day 9 : </h5>
