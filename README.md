@@ -43,7 +43,7 @@
 2.Spearman's Rank Correlation Coefficient
 
 <h5> Day 8 : </h5>
-1.
+1.Least Square Regression Line
 2.Pearson Correlation Coefficient II
 
 <h5> Day 9 : </h5>
