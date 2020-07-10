@@ -30,7 +30,7 @@
 <h5> Day 5 : </h5>
 1.Poisson Distribution I
 2.Poisson Distribution II
-3.
+3.Normal Distribution I
 4.
 
 <h5> Day 6 : </h5>
