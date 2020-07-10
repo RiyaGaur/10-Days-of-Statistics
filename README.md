@@ -23,7 +23,7 @@
 
 <h5> Day 4 : </h5>
 1.Binomial Distribution I
-2.
+2.Binomial Distribution II
 3.
 4.
 
